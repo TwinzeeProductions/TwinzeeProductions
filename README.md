@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+file:///C:/Users/evanp/Downloads/Coding/HTML/Atom%20Projects/Twinzee%20Productions/twinzeeproductionindex.html
+https://twinzeeproductions.github.io/TwinzeeProductions/
 <!--
 **TwinzeeProductions/TwinzeeProductions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
